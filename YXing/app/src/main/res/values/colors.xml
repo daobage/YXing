@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+	<!-- 重点使用的两种颜色 -->
+	<color name="color_lyellow">#ff8634</color>
+	<color name="color_lgreen">#3bb000</color>
+	<color name="hintTextColor">#f24747</color>
+	<color name="TitleBgColor">#8bc330</color>
+	<color name="more_text_color">#333330</color>
+	<color name="press_color">#bbbbbb</color>
+	<color name="unchecked_text_color">#888888</color>
+	<color name="text_color">#1d97ff</color>
+	<color name="unpress_color">#ffffff</color>
+
+	<color name="colorPrimary">#6c6f72</color>
+	<color name="colorPrimaryDark">#6c6f72</color>
+	<color name="colorAccent">#6c6f72</color>
+	<color name="invoice_add_color">#6c6f72</color>
+
+</resources>
